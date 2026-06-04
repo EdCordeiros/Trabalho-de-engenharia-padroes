@@ -1,5 +1,5 @@
 # Trabalho-de-engenharia
-Esse repositório se refere ao trabalho do professor Wiese sobre padrões de projetos
+Esse repositório se refere ao trabalho do professor Wiese sobre padrões de projetos;
 Foram utilizados LLM nesse trabalho(dentro das pastas de cada padrão está descrito qual e como foi utilizada);
 Todas os padrões de projetos foram tirados do site refactoring.guru.
 
