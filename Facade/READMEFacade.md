@@ -1,6 +1,6 @@
  LLM "ChatGPT" foi utilizada para a implementação e explicação do código do padrão de projeto "Facade".
 
- O projeto estrutura "facade" se trata de um padrão que possui o objetivo de apresentar uma interface simples para diversas classes consideradas complexas, escondendo a complexidade e apenas 
+ O projeto estrutural "facade" se trata de um padrão que possui o objetivo de apresentar uma interface simples para diversas classes consideradas complexas, escondendo a complexidade e apenas 
  entregando para o cliente o método que deve ser realizado para realizar a tarefa, como um botão.
 
  No código apresentado como exemplo o problema que tinhamos eram as diversas etapas que tinham que ser analisadas para efetuar a matricula de um aluno, cada uma dessas etapas foram colocadas
